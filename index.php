@@ -1,6 +1,6 @@
 <?php
 
-//Il faut s'impregner du code
+// Il faut coder jour et nuit
 
 require_once("include/fct.inc.php");
 require_once ("include/class.pdogsb.inc.php");
